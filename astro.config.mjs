@@ -5,7 +5,7 @@ import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
   site: 'https://dev-pongsit.github.io/Test-102/',
-  base: '/Test-102/', // สำคัญ!
+  base: '/Test-102/',
   output: 'static',
   trailingSlash: 'always',
   prefetch: false,
