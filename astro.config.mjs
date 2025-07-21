@@ -4,7 +4,7 @@ import compress from 'astro-compress';
 import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
-  site: 'https://dev-pongsit.github.io/Test-102/',
+  site: 'https://dev-pongsit.github.io',
   base: '/Test-102/',
   output: 'static',
   trailingSlash: 'always',
