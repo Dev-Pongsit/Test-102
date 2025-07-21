@@ -1,4 +1,4 @@
-# Astro Developer Portfolio Template
+<!-- # Astro Developer Portfolio Template
 A minimal, easy-to-customize developer portfolio template built with [Astro](https://astro.build/) and [TailwindCSS](https://tailwindcss.com/). No JavaScript in final build.
 
 ## Demo
@@ -54,6 +54,7 @@ Edit the **Frontmatter** variables in these files:
 - `src/components/Profile.astro` – Personal profile information.
 - `src/components/ContentProjects.astro` – Projects/portfolio section content.
 - `src/components/ContentAbout.astro` – About section content.
+- `src/components/ContentView.astro` – 3 section content.
 
 ### Profile Picture
 - Replace `/src/assets/profile.png` with your own image.
@@ -70,4 +71,4 @@ Need a free OpenGraph image?
 - Adjust `/public/robots.txt` to match your domain.
 
 ## ⭐ Contributing
-Feel free to fork, customize, and contribute to this project. If you find it useful, leaving a star would be greatly appreciated.
+Feel free to fork, customize, and contribute to this project. If you find it useful, leaving a star would be greatly appreciated. -->
